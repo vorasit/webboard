@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Qid;datatype:int,name:QTitle;datatype:string,name:QDetail;datatype:blob,name:QName;datatype:string,name:QEmail;datatype:string,name:QDate;datatype:date" />
+	<infoitem key="UD_Recordset2" value="name:Aid;datatype:int,name:ADetail;datatype:blob,name:AName;datatype:string,name:AEmail;datatype:string,name:ADate;datatype:date,name:RefQid;datatype:int" />
+</info>
